@@ -1,0 +1,14 @@
+{
+  "name": "simplestorage",
+  "version": "1.0.0",
+  "description": "SimpleStorage Smart Contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "static-server public"
+  },
+  "author": "Ronaldo Silva",
+  "license": "MIT"
+}
